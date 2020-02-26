@@ -1,0 +1,7 @@
+C:\Repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
