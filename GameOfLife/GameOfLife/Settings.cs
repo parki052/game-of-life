@@ -8,15 +8,17 @@ namespace GameOfLife
 {
     public static class Settings
     {
+        //edit the ascii characters here if desired
         public static string VerticalBorder = ". ";
         public static string HorizontalBorder = ". ";
         public static string DeadCell = " ";
         public static string LiveCell = "*";
+
         public static string WindowTitle = "Game Of Life";
-        public static int TickSpeed = 0050;
-        public static ConsoleColor LiveCellColor = ConsoleColor.White;
-        public static ConsoleColor DefaultFontColor = ConsoleColor.White;
-        public static int MapInsetSpacingAmount = 15;
+        public static int TickSpeed = 0050; //tick speed in MS
+        public static ConsoleColor LiveCellColor = ConsoleColor.Green;
+        public static ConsoleColor DefaultFontColor = ConsoleColor.Green;
+        public static int MapInsetSpacingAmount = 15; //how many spaces to the right should the grid be set?
         public static string MapInsetSpacing = "";
 
         public static void Init()
@@ -25,8 +27,8 @@ namespace GameOfLife
             Console.Title = WindowTitle;
             Console.CursorVisible = false;
             Console.ForegroundColor = DefaultFontColor;
-            Console.SetWindowSize(Console.LargestWindowWidth - 230, Console.LargestWindowHeight - 40);
-            Console.SetBufferSize(Console.LargestWindowWidth - 230, Console.LargestWindowHeight - 40);
+            Console.SetWindowSize(Console.LargestWindowWidth - 100, Console.LargestWindowHeight - 20);
+            Console.SetBufferSize(Console.LargestWindowWidth - 100, Console.LargestWindowHeight - 20);
             SetMapInsetSpacing();
         }
 

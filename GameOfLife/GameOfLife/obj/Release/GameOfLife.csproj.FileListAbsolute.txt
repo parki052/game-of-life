@@ -5,3 +5,9 @@ C:\Repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.CoreCompileInputs.c
 C:\Repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
 C:\Repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
 C:\Repos\GameOfLife\GameOfLife\obj\Release\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Repos\Github Repos\game-of-life\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Repos\Github Repos\game-of-life\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Repos\Github Repos\game-of-life\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Repos\Github Repos\game-of-life\GameOfLife\GameOfLife\obj\Release\GameOfLife.csprojAssemblyReference.cache
+C:\Repos\Github Repos\game-of-life\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Repos\Github Repos\game-of-life\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
